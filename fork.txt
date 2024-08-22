@@ -1,3 +1,5 @@
+Java Cards
+----------
 https://github.com/JavaCardOS/LibSC-Reader-Kit
 https://github.com/JavaCardOS/pyGlobalPlatform
 https://github.com/JavaCardOS/KeepassNFCApplet
@@ -29,9 +31,6 @@ https://github.com/martinpaljak/AppletPlayground
 https://github.com/martinpaljak/vJCRE
 https://github.com/devnied/EMV-NFC-Paycard-Enrollment
 https://github.com/crocs-muni/JCAlgTest
-https://github.com/nfc-tools/libnfc
-https://github.com/nfc-tools/mfoc
-https://github.com/nfc-tools/mfcuk
 https://github.com/nfcgate/nfcgate
 https://github.com/nfcgate/server
 https://github.com/intarsys/smartcard-io
@@ -45,6 +44,10 @@ https://github.com/anta40/jcManager
 https://github.com/anta40/CAPUploader
 https://github.com/anta40/java-card-desfire-emulation
 https://github.com/e-Contract/eid-applet
+https://github.com/typelogic/jcshell
+
+Mifare
+------
 https://github.com/ondryaso/pi-rc522
 https://github.com/gassajor000/pn532pi
 https://github.com/Seeed-Studio/PN532
@@ -53,3 +56,6 @@ https://github.com/mxgxw/MFRC522-python
 https://github.com/soonuse/pn532-lib
 https://github.com/soonuse/pn532-nfc-hat
 https://github.com/mfdogalindo/MFRC522-UART
+https://github.com/nfc-tools/libnfc
+https://github.com/nfc-tools/mfoc
+https://github.com/nfc-tools/mfcuk
