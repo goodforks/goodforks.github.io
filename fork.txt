@@ -45,6 +45,13 @@ https://github.com/anta40/CAPUploader
 https://github.com/anta40/java-card-desfire-emulation
 https://github.com/e-Contract/eid-applet
 https://github.com/typelogic/jcshell
+https://github.com/CardContact/scsh-scripts
+https://github.com/OpenSC/OpenSC
+https://github.com/dogtagpki/coolkey/
+https://github.com/arekinath/PivApplet
+https://github.com/Yubico/ykneo-openpgp/
+https://github.com/vletoux/GidsApplet/
+https://github.com/philipWendland/IsoApplet/
 
 Mifare
 ------
