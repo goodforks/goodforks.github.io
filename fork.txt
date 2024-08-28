@@ -46,6 +46,10 @@ https://github.com/anta40/jcManager
 https://github.com/anta40/CAPUploader
 https://github.com/anta40/java-card-desfire-emulation
 
+https://github.com/EsupPortail/esup-sgc
+https://github.com/EsupPortail/esup-nfc-tag-server
+https://github.com/EsupPortail/esup-nfc-tag-droid
+
 https://github.com/skjolber/desfire-tools-for-android
 https://github.com/skjolber/ndef-tools-for-android
 https://github.com/skjolber/external-nfc-api
