@@ -89,6 +89,11 @@ https://github.com/mrlnc/HelloSTK2
 https://github.com/mwalle/NeoPGP
 https://github.com/bertrandmartel/javacard-gradle-plugin
 https://github.com/ph4r05/javacard-gradle-template
+https://github.com/mrautio/emv-card-simulator
+https://github.com/mclear/OMNI-Ring
+https://github.com/roman-oberenkowski/smartcards
+https://github.com/asdfjkl/JCHelloWorld
+
 
 Mifare
 ------
