@@ -93,7 +93,8 @@ https://github.com/mrautio/emv-card-simulator
 https://github.com/mclear/OMNI-Ring
 https://github.com/roman-oberenkowski/smartcards
 https://github.com/asdfjkl/JCHelloWorld
-
+https://github.com/Shadytel/sim-tools
+https://github.com/Shadytel/hello-stk
 
 Mifare
 ------
